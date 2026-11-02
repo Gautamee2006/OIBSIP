@@ -1,0 +1,4 @@
+# Advanced BMI Calculator - Third-Party Dependencies
+# Built-in libraries used: tkinter, sqlite3, csv, unittest, datetime, pathlib (do not install via pip)
+
+matplotlib>=3.8.0

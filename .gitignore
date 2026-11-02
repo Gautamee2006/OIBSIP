@@ -1,0 +1,27 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# SQLite Databases (Never commit personal records)
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files & exports
+*.csv
+*.tmp
+*.temp
+*.log
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
